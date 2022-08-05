@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7fbb04cc.css",
+    "main.js": "/static/js/main.155a5b23.js",
+    "static/js/787.56926bd0.chunk.js": "/static/js/787.56926bd0.chunk.js",
+    "static/media/SongMyung-Regular.ttf": "/static/media/SongMyung-Regular.1bfcd536436055354fb6.ttf",
+    "static/media/Lobster-Regular.ttf": "/static/media/Lobster-Regular.03c38496322925fec242.ttf",
+    "static/media/intro7.jpg": "/static/media/intro7.4dcee5fadf0eb863da62.jpg",
+    "static/media/macaroonhistory3.jpg": "/static/media/macaroonhistory3.1c526efe8795a17c7f47.jpg",
+    "static/media/intro2.jpg": "/static/media/intro2.3b5797a6881a81a1381a.jpg",
+    "static/media/greenTea.jpg": "/static/media/greenTea.3a0ebbb95127bdbe5d7f.jpg",
+    "static/media/intro5.jpg": "/static/media/intro5.8dfddddd4b83878196c0.jpg",
+    "static/media/intro4.jpg": "/static/media/intro4.16be2284685cfec9ffac.jpg",
+    "static/media/intro6.jpg": "/static/media/intro6.56a62d73ef0452b7aef1.jpg",
+    "static/media/intro3.jpg": "/static/media/intro3.1ebbf2b887686adee3d9.jpg",
+    "static/media/cookie.jpg": "/static/media/cookie.94900e5b4a7f2f1568eb.jpg",
+    "static/media/Strawberry.jpg": "/static/media/Strawberry.e329057727d9ff7b66b7.jpg",
+    "static/media/intro.jpg": "/static/media/intro.84710479089d3398c69a.jpg",
+    "static/media/Cherry.jpg": "/static/media/Cherry.999f105225700d66bed7.jpg",
+    "static/media/macaroonhistory2.jpg": "/static/media/macaroonhistory2.f7a682790e7091558d66.jpg",
+    "static/media/macaroon5.png": "/static/media/macaroon5.58cb439021f7c36616f0.png",
+    "static/media/macaroon3.png": "/static/media/macaroon3.dea288e9a4cbb059ad75.png",
+    "static/media/macaroon6.png": "/static/media/macaroon6.0a449992bf59c509c22b.png",
+    "static/media/macaroon4.png": "/static/media/macaroon4.858a992bc6fd9600305b.png",
+    "static/media/macaroonname.png": "/static/media/macaroonname.e7263c1c58317b7306d5.png",
+    "static/media/macaroon1.png": "/static/media/macaroon1.e2dbdafbf33ba6095077.png",
+    "static/media/macaroon2.png": "/static/media/macaroon2.c87ef3c937c23839c870.png",
+    "static/media/AbrilFatface-Regular.ttf": "/static/media/AbrilFatface-Regular.c2459f7f69cb5eb788d8.ttf",
+    "static/media/Blueberry.jpg": "/static/media/Blueberry.cd63fe3fc369ed6cbc88.jpg",
+    "static/media/macaroonhistory.jpg": "/static/media/macaroonhistory.08e92ce8c142c0b6d1c0.jpg",
+    "static/media/ddoongcaroon.jpg": "/static/media/ddoongcaroon.1ed9ccbe71afa6bf5d11.jpg",
+    "static/media/Lemon.jpg": "/static/media/Lemon.f5d1f2504020b77cd1cd.jpg",
+    "index.html": "/index.html",
+    "main.7fbb04cc.css.map": "/static/css/main.7fbb04cc.css.map",
+    "main.155a5b23.js.map": "/static/js/main.155a5b23.js.map",
+    "787.56926bd0.chunk.js.map": "/static/js/787.56926bd0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fbb04cc.css",
+    "static/js/main.155a5b23.js"
+  ]
+}
